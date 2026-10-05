@@ -6,7 +6,7 @@ Final project for Event-Driven Programming.
 This repository contains the source code and documentation for our final project.
 
 ## Group Members
-- Baguio
+- Baguio - Username - MrLasagna738
 - Nuñal
 - Paras
 - Antig
